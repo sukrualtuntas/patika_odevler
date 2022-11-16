@@ -16,7 +16,7 @@ public class dairealancevre {
         alan = (pi*(r*r)*a)/360;
         System.out.println("Dairenin çevre uzunluğu:" + cevre);
         System.out.println("Dairenin alanı:" + alan);
-        
+
     }
 
 }
