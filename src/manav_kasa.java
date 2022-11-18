@@ -27,6 +27,6 @@ public class manav_kasa {
         toplam += tkp;
         System.out.print("Toplam tutar:"+toplam+"TL");
 
-        
+
     }
 }
