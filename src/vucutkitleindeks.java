@@ -11,6 +11,5 @@ public class vucutkitleindeks {
         indeks= kilo/ (boy*boy);
         System.out.print("Vücut Kitle İndeksiniz:"+indeks);
 
-
     }
 }
